@@ -1,4 +1,4 @@
-# DBMS_IN_8_DAYS
+# Learn-DBMS-In-8-Days
 Hi all, In this repo you can find all the notes to learn DBMS from Basics to Advance in 8 days
 
 Youtube channel : https://youtube.com/@RitiKumari
